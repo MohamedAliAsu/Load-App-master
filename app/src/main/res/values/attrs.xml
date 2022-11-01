@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoadingButton">
+        <attr name="bgColor" format="color"/>
+        <attr name="arcColor" format="color"/>
+        <attr name="bgLoadingColor" format="color"/>
+    </declare-styleable>
+</resources>
